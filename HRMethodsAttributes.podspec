@@ -18,5 +18,6 @@ Pod::Spec.new do |s|
   s.resource_bundles = {
     'HRMethodsAttributes' => ['Pod/Assets/*.png']
   }
+  s.public_header_files = 'Pod/Classes/**/*.h'
 
 end
