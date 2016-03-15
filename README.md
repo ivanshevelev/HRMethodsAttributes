@@ -1,5 +1,9 @@
 # HRMethodsAttributes
 
+[![Version](https://img.shields.io/cocoapods/v/HRMethodsAttributes.svg?style=flat)](http://cocoapods.org/pods/HRMethodsAttributes)
+[![License](https://img.shields.io/cocoapods/l/HRMethodsAttributes.svg?style=flat)](http://cocoapods.org/pods/HRMethodsAttributes)
+[![Platform](https://img.shields.io/cocoapods/p/HRMethodsAttributes.svg?style=flat)](http://cocoapods.org/pods/HRMethodsAttributes)
+
 HRMethodsAttributes is a simple defines wrapper on __attribute().
 
 ## Usage
