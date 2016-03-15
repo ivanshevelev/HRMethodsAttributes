@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = "HRMethodsAttributes"
   s.version          = "1.0.0"
-  s.summary          = "Simple attribute defines for 'deprecated' and 'unavailabled'."
+  s.summary          = "Simple attribute defines for 'deprecated' and 'unavailable'."
 
-  s.description      = "Simple attribute defines for 'deprecated' and 'unavailabled'. Just write DEPRECATED(or another define) after method's declaration to make it deprecated instead of ugly __attribute(blah-blah-blah)."
+  s.description      = "Simple attribute defines for 'deprecated' and 'unavailable'. Just write DEPRECATED(or another define)(instead of ugly __attribute(blah-blah-blah)) after method's declaration to make it deprecated."
 
   s.homepage         = "https://github.com/ivanshevelev/HRMethodsAttributes"
   s.license          = 'MIT'
