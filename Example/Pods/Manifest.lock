@@ -1,0 +1,14 @@
+PODS:
+  - HRMethodsAttributes (0.1.0)
+
+DEPENDENCIES:
+  - HRMethodsAttributes (from `../`)
+
+EXTERNAL SOURCES:
+  HRMethodsAttributes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HRMethodsAttributes: 02333f4f476ecbcf2f60d7de83a54791399f15f3
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HRMethodsAttributes-HRMethodsAttributes.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HRMethodsAttributes_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HRMethodsAttributes_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>916B32C0C39673EED7E5A4BD10A0AA34</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>98AA683C483A275314F16E9E7EC734D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D972DB643550B46AD8BA66A23F6CAF27</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
