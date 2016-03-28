@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/HRMethodsAttributes.svg?style=flat)](http://cocoapods.org/pods/HRMethodsAttributes)
 [![Platform](https://img.shields.io/cocoapods/p/HRMethodsAttributes.svg?style=flat)](http://cocoapods.org/pods/HRMethodsAttributes)
 
-HRMethodsAttributes is a simple defines wrapper on ```objective-c __attribute__(()) ```.
+HRMethodsAttributes is a simple defines wrapper on `objective-c __attribute__(()) `.
 
 ## Usage
 
