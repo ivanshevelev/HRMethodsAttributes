@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "HRMethodAttributes.h"
+#import <HRMethodsAttributes/HRMethodAttributes.h>
 
 @interface SomeClass : NSObject
 
